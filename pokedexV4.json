@@ -1,0 +1,35 @@
+{
+    "titel": "Kies een pokemon om verdere details te bekijken!",
+    "auteur": "Hendriks Jansen",
+    "gepubliceerd": 2017,
+    "active": true,
+    "pokemons": [
+        {
+            "naam": "Bulbasaur",
+            "afb_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+            "beschrijving": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.  Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+            "evoluties": [
+        "Ivysaur",
+        "Venusaur"
+      ]
+    },
+        {
+            "naam": "Squirtle",
+            "afb_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+            "beschrijving": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.  Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
+            "evoluties": [
+        "Wartortle",
+        "Blastoise"
+      ]
+    },
+        {
+            "naam": "Charmender",
+            "afb_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+            "beschrijving": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.  The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
+            "evoluties": [
+        "Charmeleon",
+        "Charizard"
+      ]
+    }
+  ]
+}
